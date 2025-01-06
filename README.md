@@ -90,7 +90,7 @@ Exemplo de formato do `data.json`:
 
 ---
 
-### **Como rodar o projeto em sua máquina?**
+> ### **Como rodar o projeto em sua máquina?**
 
 #### 1. Rodando no Navegador:
 
