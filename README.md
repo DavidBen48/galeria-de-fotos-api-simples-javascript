@@ -60,7 +60,7 @@ O arquivo `script.js` contém a lógica da aplicação, incluindo as funções p
 - **Exibição Detalhada**: Ao clicar em uma miniatura, a imagem será exibida em tamanho completo, juntamente com seu nome, descrição e categoria.
 
 #### 5. **Arquivo JSON: Persistência de Dados**
-O arquivo `data.json` contém as informações das imagens, incluindo nome, categoria, descrição, URL da imagem e palavras-chave.
+O arquivo `data.json` contém as informações das imagens, incluindo nome, categoria, descrição, URL da imagem e palavras-chave. (Um detalhe importante: o arquivo `data.json` não existe dentro do projeto, ele existe externamente dentro da página que fornece e API pública, ou seja, não poderá ser manipulado, editado, adicionado ou alterado dentro desse projeto. Ele passou por uma filtragem por mim mesmo, David, que escolheu as imagens padrões de automóveis como temática, para não ser algo aleatoriamente).
 
 Exemplo de formato do `data.json`:
 ```json
@@ -127,8 +127,8 @@ Se você preferir usar o Visual Studio Code (VSC), siga os passos abaixo:
    code .
    ```
 
-3. **Link do *Deploy*:
-  Uma forma de visualizar externamente, sem precisar baixar ou clonar alguma coisa, apenas clique nesse link para visualizar. Ele abrirá uma nova aba do projeto.
+### 3. Link do **Deploy**:
+Uma forma de visualizar externamente, sem precisar baixar ou clonar alguma coisa, apenas [clique aqui](https://davidben48.github.io/galeria-de-fotos-api-simples-javascript/) para visualizar. Ele abrirá uma nova aba do projeto para visualização.
 ---
 
-Com isso, a aplicação de galeria de fotos estará pronta para ser usada, oferecendo uma maneira eficiente de visualizar e pesquisar imagens de forma interativa.
+E, com isso, a aplicação de galeria de fotos estará pronta para ser usada, oferecendo uma maneira eficiente de visualizar e pesquisar imagens de forma interativa e responsiva.
