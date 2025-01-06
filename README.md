@@ -130,5 +130,3 @@ Se você preferir usar o Visual Studio Code (VSC), siga os passos abaixo:
 ### 3. Link do **Deploy**:
 Uma forma de visualizar externamente, sem precisar baixar ou clonar alguma coisa, apenas [clique aqui](https://davidben48.github.io/galeria-de-fotos-api-simples-javascript/) para visualizar. Ele abrirá uma nova aba do projeto para visualização.
 ---
-
-E, com isso, a aplicação de galeria de fotos estará pronta para ser usada, oferecendo uma maneira eficiente de visualizar e pesquisar imagens de forma interativa e responsiva.
